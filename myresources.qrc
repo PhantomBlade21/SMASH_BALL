@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>PlayerBlue.jpg</file>
+        <file>Blue1.png</file>
+        <file>Blue2.png</file>
+        <file>Soccerball.png</file>
+    </qresource>
+</RCC>
